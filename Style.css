@@ -1,3 +1,4 @@
+/* agregando ajustes generales a la pagina */
 body {
     margin: 0;
     padding: 0;
@@ -7,6 +8,7 @@ body {
     font-size: 1em;
     line-height: 1.5em;
 }
+/* Dandole estilo al header */
 #main-header {
     background: #333;
     color: white;
@@ -15,6 +17,7 @@ body {
 #main-header a {
     color: white;
 }
+/* Dando estilo a la seccion izquierda del header */
 #logo-header {
     float: left;
     padding: 15px 0 0 20px;
@@ -34,6 +37,7 @@ body {
     font-size: 0.8em;
     color: #999;
 }
+/* Dando estilo a la seccion derecha del header */
 nav {
     float: right;
 }
