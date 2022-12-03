@@ -75,3 +75,9 @@ nav ul li a:hover {
         grid-template-columns: 1fr 1fr;
     }
 }
+/* agregamos el segundo media query para pantallas mas grandes */
+@media only screen and (min-width: 850px) {
+    .band {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
